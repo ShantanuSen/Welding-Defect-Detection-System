@@ -1,5 +1,6 @@
 # Welding-Defect-Detection-System
-About oxide film detection system during welding
+Color Based Image Processing Techniques to Detect
+Oxide Film during Welding
 
 Abstract - From naval to aerospace and industry to
 household, everywhere the necessity of aluminum is felt. But
