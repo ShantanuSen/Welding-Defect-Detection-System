@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2 as cv
 from collections import Counter
-from skimage.color import rgb2lab, deltaE_cie76
 import os
 import time
 
