@@ -1,6 +1,6 @@
 # Welding-Defect-Detection-System
-Color Based Image Processing Techniques to Detect
-Oxide Film during Welding
+**Color Based Image Processing Techniques to Detect
+Oxide Film during Welding**
 
 Abstract - From naval to aerospace and industry to
 household, everywhere the necessity of aluminum is felt. But
@@ -17,3 +17,8 @@ detect oxide film and we show that the task is successfully
 done by our methods.
 
 Full paper link: https://ieeexplore.ieee.org/document/9051365
+
+
+### Code Usage Guide
+
+Just run `main.py` and the output should be like the mentioned article. The algorithms are put it in the `algos.py`.
